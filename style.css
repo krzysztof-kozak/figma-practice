@@ -78,6 +78,7 @@ main {
 @media (max-width: 680px) {
   .card {
     flex-direction: column;
+    margin: 0 32px;
   }
   .card__image {
     align-self: center;
