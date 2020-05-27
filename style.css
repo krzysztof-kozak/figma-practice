@@ -20,6 +20,12 @@ main {
   box-shadow: 5px 4px 5px 3px rgba(0, 0, 0, 0.4);
 }
 
+@media (max-width: 680px) {
+  .card {
+    flex-direction: column;
+  }
+}
+
 .card__image {
   width: 148px;
   height: 148px;
