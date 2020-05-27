@@ -1,1 +1,1 @@
-# figma-practice
+# This repository was made to practice a simple Figma design
