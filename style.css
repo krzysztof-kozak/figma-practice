@@ -55,7 +55,7 @@ main {
   text-align: justify;
 }
 
-.card__text--emphasis {
+.emphasis {
   font-style: normal;
   color: #ed6d05;
 }
