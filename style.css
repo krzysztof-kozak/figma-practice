@@ -27,6 +27,7 @@ main {
   margin-right: 32px;
   border: 2px dotted black;
   align-self: flex-start;
+  flex-shrink: 0;
 }
 
 .card__header {
